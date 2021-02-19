@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankonevv&show_icons=true&show_owner=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankonevv&show_icons=true&hide_title=true)
 <!--
 **ivankonevv/ivankonevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
